@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="common,lagom-internal-meta-project-cassandra,lagom-internal-meta-project-kafka,lagom-internal-meta-project-service-locator,phoneBook,phonebook,phonebook-api,phonebook-impl,phonebook-stream-api,phonebook-stream-impl,phonebook_2512,phonebook_5007" />
+  </component>
+</project>

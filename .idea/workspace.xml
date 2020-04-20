@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7219d3c2-ea96-45dd-b415-1bb6269721e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1abzj8OdGldPGEExWedIw03O0g9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Microservice_cognitive_api/ifrm-cognitive-api" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="phoneBook" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lagom-internal-meta-project-cassandra [file:/home/neha/Documents/Microservices/phoneBook_Microservice/phoneBook/]" />
+                <option name="path" value="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="phonebook-api [file:/home/neha/Documents/Microservices/phoneBook_Microservice/phoneBook/]" />
+                <option name="path" value="$PROJECT_DIR$/phonebook-api" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="lagom-internal-meta-project-kafka [file:/home/neha/Documents/Microservices/phoneBook_Microservice/phoneBook/]" />
+                <option name="path" value="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="phoneBook [file:/home/neha/Documents/Microservices/phoneBook_Microservice/phoneBook/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="common [file:/home/neha/Documents/Microservices/phoneBook_Microservice/phoneBook/]" />
+                <option name="path" value="$PROJECT_DIR$/common" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="lagom-internal-meta-project-service-locator [file:/home/neha/Documents/Microservices/phoneBook_Microservice/phoneBook/]" />
+                <option name="path" value="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="phonebook-impl [file:/home/neha/Documents/Microservices/phoneBook_Microservice/phoneBook/]" />
+                <option name="path" value="$PROJECT_DIR$/phonebook-impl" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="phoneBook-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3668529595" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="909447134" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../Contact_Microservice/lagom-scala-sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Contact_Book/lagom-scala-sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Contact_Microservice/lagom-scala-sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ifrm-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ifrm-cognitive-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../lagom-scala-sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../code/ifrm-cognitive-model-job" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../cognitive-batch-mode" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../cognitive-real-time" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../cognitive/cognitive-batch-mode" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../cognitive/cognitive-real-time" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../cognitive/ifrm-cognitive-model-job" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../cognitive_file/ifrm-cognitive-model-job" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ifrm-cognitive-model-job" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../main_cognitive/cognitive-batch-mode" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../main_cognitive/cognitive-real-time" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../myrepo/cognitive-real-time" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../myrepo/ifrm-cognitive-model-job" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7219d3c2-ea96-45dd-b415-1bb6269721e1" name="Default Changelist" comment="" />
+      <created>1587019213480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587019213480</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="726" y="310" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1587030630783">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="310" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1587030630783" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1587051573355">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1587051573355" />
+    <state x="749" y="421" width="479" height="263" key="NewModule_or_Project.wizard" timestamp="1587053880223">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="749" y="421" width="479" height="263" key="NewModule_or_Project.wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1587053880223" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1587304260437">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1587304260437" />
+    <state x="638" y="291" width="710" height="522" key="find.popup" timestamp="1587032609388">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="638" y="291" width="710" height="522" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1587032609388" />
+  </component>
+</project>
